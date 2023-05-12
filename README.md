@@ -1,4 +1,4 @@
-## Hi there! I'm Daniel S.Augusto 👋
+## Hello there! I'm Daniel Augusto, and I'm currently learning about programming </>
     
 <div>
   <a href="https://github.com/danielsaugusto">
