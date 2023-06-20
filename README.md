@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/danielsaugusto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/danielsaugusto)
+![Snake animation](https://github.com/danielsaugusto/danielsaugusto/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
