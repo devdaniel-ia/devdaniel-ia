@@ -7,7 +7,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielsaugusto&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=c9d1d9&theme=transparent" alt="danielsaugusto's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsaugusto&layout=compact&hide_border=true&title_color=0000FF&text_color=FFFFFF&theme=transparent" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsaugusto&layout=compact&hide_border=true&title_color=0000FF&text_color=c9d1d9&theme=transparent" />
 </div>
 
 <div style="display: inline_block"><br>
