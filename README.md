@@ -6,8 +6,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0038b8&size=30&center=true&vCenter=true&width=1000&lines=Hello+there!+Welcome+to+my+page;I'm+currently+learning+about+programming+</>)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielsaugusto&show_icons=true&count_private=true&hide_border=true&title_color=0038b8&icon_color=0038b8&text_color=ffffff&theme=transparent" alt="danielsaugusto's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsaugusto&layout=compact&hide_border=true&title_color=0038b8&text_color=ffffff&theme=transparent" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devdaniel-ia&show_icons=true&count_private=true&hide_border=true&title_color=0038b8&icon_color=0038b8&text_color=ffffff&theme=transparent" alt="devdaniel-ia's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaniel-ia&layout=compact&hide_border=true&title_color=0038b8&text_color=ffffff&theme=transparent" />
 </div>
 
 <div style="display: inline_block"><br>
