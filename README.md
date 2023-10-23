@@ -1,6 +1,6 @@
 <p align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0038b8&height=120&section=header"/>
-  <h1 align="center">Daniel Augusto's Profile</h1>
+  <h1 align="center">Daniel's Profile</h1>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0038b8&size=30&center=true&vCenter=true&width=1000&lines=Hello+there!+Welcome+to+my+page;I'm+currently+learning+about+programming+</>)
